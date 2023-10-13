@@ -1,10 +1,10 @@
-#Visual Studio Code MIT Licence snippets
+# Visual Studio Code MIT Licence snippets
 
-##Set up
+## Set up
 ファイル -> ユーザ設定 -> ユーザースニペットの構成 
 -> 新しいグローバルスニペット -> MIT_Licence -> コードを貼り付け
 
-##Usage
+## Usage
 Just type to "MITLicence" for row in editor where you like.
 
-##Image
+## Image
