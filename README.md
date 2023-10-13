@@ -1,0 +1,1 @@
+# MIT-Licence-snipett-for-VScode
